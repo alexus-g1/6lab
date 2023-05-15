@@ -19,7 +19,7 @@ void main()
 	for (i = 0, s3 = 0, s4 = 0; i < 20; ++i)
 	{
 		s3 += b[i] / 20;
-		s4 += b[i];
+		s4 += b[i];//2nd commit in feature
 	}
 
 
