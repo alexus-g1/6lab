@@ -8,7 +8,7 @@ void main()
 	int i, s1, s2;
 	for (i = 0, s1 = 0, s2 = 0; i < 20; ++i)
 	{
-		s1 += a[i] / 20;
+		s1 += a[i] / 20;//1st commit in feature
 		s2 += a[i];
 	}
 
