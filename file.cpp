@@ -27,5 +27,5 @@ void main()
 	s2 /= a[20];
 	s4 /= b[20];
 	std::cout << "s1=" << s1 << ", s2=" << s2 << endl;
-	return 0;
+	return 0;//4th commit in feature
 }
