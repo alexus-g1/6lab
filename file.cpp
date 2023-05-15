@@ -21,7 +21,7 @@ void main()
 		s3 += b[i] / 20;
 		s4 += b[i];
 	}
-
+	//4th ñommit in main
 
 	//3rd commit in main
 	s2 /= a[20];
